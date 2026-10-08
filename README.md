@@ -1,4 +1,4 @@
-# Supply Chain Dashboard / Power BI
+# Supply Chain Dashboard
 ## Introduction
 **Company Overview:** Aura Logistics & Cosmetics Co. is a company that operates within three main product categories : Haircare, Cosmetics, and Skincare. It runs a sophisticated **supply chain** based on international suppliers, shipping service providers, and different modes of transport including air, rail, road, and sea.
 
