@@ -1,7 +1,7 @@
 #Supply Chain Performance & Inventory Analytics Dashboard
 
 ## Introduction
-Welcome to the **Supply Chain Performance Dashboard** repository! This project delivers an interactive, data-driven analytical solution designed to track, monitor, and optimize end-to-end supply chain metrics and inventory performance across 100 product SKUs. It bridges the gap between raw operational data and strategic decision-making.
+This project delivers an interactive, data-driven analytical solution designed to track, monitor, and optimize end-to-end supply chain metrics and inventory performance across 100 product SKUs. It bridges the gap between raw operational data and strategic decision-making.
 
 <img width="1405" height="792" alt="Overview" src="https://github.com/user-attachments/assets/9cdfeee8-caeb-48cf-bbf4-1699e826d1b9" />
 
